@@ -20,6 +20,13 @@
       "alamat": "kediri",
       "umur": 19,
       "email": "ayyub@gmail.com"
+    },
+     {
+      "id": 4,
+      "nama": "farhan",
+      "alamat": "jakarta",
+      "umur": 19,
+      "email": "farhan@gmail.com"
     }
   ]
 }
