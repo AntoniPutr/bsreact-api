@@ -1,23 +1,23 @@
 {
   "users": [
     {
-      " id": 1,
+      "id": 1,
       "nama": "antoni",
       "alamat": "Malang",
-      " umur": 18,
+      "umur": 18,
       "email": "antoni@gmail.com"
     },
     {
-      " id": 2,
-      " nama": "amin",
+      "id": 2,
+      "nama": "amin",
       "alamat": "kudus",
-      " umur": 17,
+      "umur": 17,
       "email": "amin@gmail.com"
     },
     {
-      "  id": 3,
-      " nama": "ayyub",
-      " alamat": "kediri",
+      "id": 3,
+      "nama": "ayyub",
+      "alamat": "kediri",
       "umur": 19,
       "email": "ayyub@gmail.com"
     }
